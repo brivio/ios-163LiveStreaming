@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "brivio-ios-163LiveStreaming"
+  s.name             = "ios-163LiveStreaming"
   s.version          = "0.1.0"
   s.summary          = "163LiveStreaming for ios development"
 
